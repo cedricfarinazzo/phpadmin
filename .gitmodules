@@ -1,6 +1,6 @@
-[submodule "php-hardware-monitoring"]
-	path = php-hardware-monitoring
+[submodule "admin/php-hardware-monitoring"]
+	path = admin/php-hardware-monitoring
 	url = https://github.com/cedricfarinazzo/php-hardware-monitoring.git
-[submodule "phpservermon"]
-	path = phpservermon
+[submodule "admin/phpservermon"]
+	path = admin/phpservermon
 	url = https://github.com/phpservermon/phpservermon.git

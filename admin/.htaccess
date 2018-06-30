@@ -1,0 +1,5 @@
+AuthName "PHPAdmin"
+AuthType Basic
+AuthUserFile "/path/to/.htpasswd"
+Require valid-user
+
